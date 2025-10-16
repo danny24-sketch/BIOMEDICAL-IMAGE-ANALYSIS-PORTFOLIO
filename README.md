@@ -14,9 +14,13 @@ Mbarara University of science and technology biomedical engineering student | Me
 This is a descriptive post, that includes weekly growth in medical image analysis study, project work, image analysis pipeline design and AI intergration in medical image analysis.
 
  ## Skills mastered
+
 **Medical Image Processing**: Adaptive Thresholding, CLAHE, Watershed Algorithm, Feature Extraction
+
  **Computer Vision**: OpenCV, Template Matching, Morphological Operations, Object Detection, Smile Detection, Face Detection
+ 
  **Programming**: Python, TensorFlow, scikit-image, matplotlib, pandas
+ 
  **Medical Applications**: Cell Counting, Abnormality Detection, Diagnostic Tools, Quality Enhancement
 
  ## Featured Projects
