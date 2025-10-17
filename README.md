@@ -3,7 +3,7 @@ Advanced medical image processing, analysis and AI projects medical analysis
 
 ##About Me
 
-Mbarara University of science and technology biomedical engineering student | Medical image analysis specialist | AI enthusiast | 3D designer using CAD(Autodesk fusion, KiCAD, AutoCAD) | Programmer and software developer(C, Python.
+Mbarara University of science and technology biomedical engineering student | Medical image analysis specialist | AI enthusiast | 3D designer using CAD(Autodesk fusion, KiCAD, AutoCAD) | Programmer and software developer(C, Python)
 
  #Key Aim
 
